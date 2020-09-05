@@ -1,0 +1,63 @@
+vbox0 = VBox()
+        vbox0.attr_class = "VBox"
+        vbox0.attr_editor_newclass = False
+        vbox0.css_align_items = "center"
+        vbox0.css_background_color = "rgb(145,166,173)"
+        vbox0.css_display = "flex"
+        vbox0.css_flex_direction = "column"
+        vbox0.css_height = "250px"
+        vbox0.css_justify_content = "space-around"
+        vbox0.css_order = "139949328420048"
+        vbox0.css_position = "static"
+        vbox0.css_top = "20px"
+        vbox0.css_width = "250px"
+        vbox0.variable_name = "vbox0"
+        button0 = Button()
+        button0.attr_class = "Button"
+        button0.attr_editor_newclass = False
+        button0.css_background_color = "rgb(122,69,180)"
+        button0.css_border_color = "rgb(0,0,0)"
+        button0.css_color = "rgb(255,255,255)"
+        button0.css_font_size = "30px"
+        button0.css_height = "50px"
+        button0.css_order = "139949325360384"
+        button0.css_position = "static"
+        button0.css_top = "20px"
+        button0.css_width = "70px"
+        button0.text = "7"
+        button0.variable_name = "button0"
+        vbox0.append(button0,'button0')
+        button1 = Button()
+        button1.attr_class = "Button"
+        button1.attr_editor_newclass = False
+        button1.css_height = "30px"
+        button1.css_order = "139949326830896"
+        button1.css_position = "static"
+        button1.css_top = "20px"
+        button1.css_width = "100px"
+        button1.text = "button"
+        button1.variable_name = "button1"
+        vbox0.append(button1,'button1')
+        button2 = Button()
+        button2.attr_class = "Button"
+        button2.attr_editor_newclass = False
+        button2.css_height = "30px"
+        button2.css_order = "139949326839040"
+        button2.css_position = "static"
+        button2.css_top = "20px"
+        button2.css_width = "100px"
+        button2.text = "button"
+        button2.variable_name = "button2"
+        vbox0.append(button2,'button2')
+        button3 = Button()
+        button3.attr_class = "Button"
+        button3.attr_editor_newclass = False
+        button3.css_height = "30px"
+        button3.css_order = "139949344362016"
+        button3.css_position = "static"
+        button3.css_top = "20px"
+        button3.css_width = "100px"
+        button3.text = "button"
+        button3.variable_name = "button3"
+        vbox0.append(button3,'button3')
+        
